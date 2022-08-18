@@ -1,3 +1,9 @@
+#Use your preferred test automation tool to automate the test case: 
+#Go to your favorite e-shop, navigate to some category, 
+#and add two most expensive items to the shopping cart from this category
+
+# the code is written on Python using Selenium
+
 from selenium import webdriver
 import time
 driver = webdriver.Chrome()
