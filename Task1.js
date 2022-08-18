@@ -3,7 +3,7 @@
 //“Testing” if the number is divisible by both, or prints just the number if none of those cases are true.
 
 //The code is written on JavaScript
-//To run the code
+//To run the code copy files index.htm and Task1.js and run index.htm
 
 let number = 100
 
